@@ -1,0 +1,27 @@
+#  x01.txt
+#    Academic Press, 1991, page 304,
+#    ISBN 0-12-656460-4.
+#    There are 62 rows of data.  The 3 data columns include:
+#      I,  the index,
+#      A1, the brain weight;
+#      B,  the body weight.
+#    We seek a model of the form:
+#
+#      B = A1 * X1.
+#
+3 columns
+62 rows
+Index
+Brain Weight
+Body Weight
+# here is the training set
+ 1     3.385    44.500 abjhk
+ 2     0.480    33.38  bc_00asdk
+ 3     1.350     8.100 fb
+ 4   465.000   423.000 cer
+ 5    36.330   119.500 rg
+# here is the cross validation set
+ 6    27.660   115.000 rk
+ 7    14.830    98.200 fff
+ 8     1.040     5.500 zxs
+ 9     4.190    58.000 kij
